@@ -18,6 +18,9 @@ An intelligent Streamlit-based application that compares a Resume (PDF) with a J
 Report
 
 🚀 Live App
+## 🚀 Live Demo  
+Try the deployed app here:  
+👉 https://ats-resume-screener-pcxoomxejthzc74spgz7aq.streamlit.app/
 
 📂 Features
 
