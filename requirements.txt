@@ -1,0 +1,12 @@
+streamlit
+sentence-transformers
+scikit-learn
+pandas
+numpy
+PyPDF2
+spacy
+python-docx
+tqdm
+shap
+plotly
+pyarrow
