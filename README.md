@@ -5,7 +5,8 @@
 
 ##PREVIEW
 
-<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/ce8cdaa1-d033-408b-9ead-c4a7d1296e3d" />
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/285a0181-9bfe-4fbd-a6db-026b527a2c86" />
+
 
 
 # 📌 **README.md (Premium Version)**
