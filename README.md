@@ -3,6 +3,10 @@
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![NLP](https://img.shields.io/badge/NLP-SBERT-green)]()
 
+##PREVIEW
+
+<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/ce8cdaa1-d033-408b-9ead-c4a7d1296e3d" />
+
 
 # 📌 **README.md (Premium Version)**
 
