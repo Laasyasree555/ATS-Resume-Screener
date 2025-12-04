@@ -1,3 +1,7 @@
+[![Streamlit App](https://img.shields.io/badge/Live_App-Streamlit-brightgreen)](https://ats-resume-screener-pcxoomxejthzc74spgz7aq.streamlit.app/)
+[![GitHub stars](https://img.shields.io/github/stars/Laasyasree555/ATS-Resume-Screener?style=social)](https://github.com/Laasyasree555/ATS-Resume-Screener)
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
+[![NLP](https://img.shields.io/badge/NLP-SBERT-green)]()
 
 
 # 📌 **README.md (Premium Version)**
